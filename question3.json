@@ -1,0 +1,97 @@
+[
+    {
+        "question": "Which among the following scenarios warrants insurance?",
+        "choice1": "The sole bread winner of a family might die untimely",
+        "choice2": "A person may lose his wallet",
+        "choice3": "Stock prices may fall drastically",
+        "choice4": "A house may lose value due to natural wear and tear",
+        "answer": 1
+    },
+    {
+        "question": "Which of the below insurance scheme is run by an insurer and not sponsored by the Government?",
+        "choice1": "Employees State Insurance Corporation",
+        "choice2": "Crop Insurance Scheme",
+        "choice3": "Jan Arogya",
+        "choice4": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "Risk transfer through risk pooling is called ________.",
+        "choice1": "Savings",
+        "choice2": "Investments",
+        "choice3": "Insurance",
+        "choice4": "Risk mitigation",
+        "answer":3
+
+    },
+    {
+        "question": "The measures to reduce chances of occurrence of risk are known as _____.",
+        "choice1": "Risk retention",
+        "choice2": "Loss prevention",
+        "choice3": "Risk transfer",
+        "choice4": "Risk avoidance",
+        "answer":2
+    },
+    {
+        "question": "By transferring risk to insurer, it becomes possible ___________.",
+        "choice1": "To become careless about our assets",
+        "choice2": "To make money from insurance in the event of a loss",
+        "choice3": "To ignore the potential risks facing our assets",
+        "choice4": "To enjoy peace of mind and plan one's business more effectively",
+        "answer":4
+
+    },
+    {
+        "question": "Origins of modern insurance business can be traced to __________.",
+        "choice1": "Bottomry",
+        "choice2": "Lloyds",
+        "choice3": "Rhodes",
+        "choice4": "Malhotra Committee",
+        "answer": 2
+
+    },
+    {
+
+        "question": "In insurance context ‘risk retention’ indicates a situation where _____.",
+        "choice1": "Possibility of loss or damage is not there",
+        "choice2": "Loss producing event has no value",
+        "choice3": "Property is covered by insurance",
+        "choice4": "One decides to bear the risk and its effects",
+        "answer":4        
+    },
+    {
+
+        "question": "Which of the following statement is true?",
+        "choice1": "Insurance protects the asset",
+        "choice2": "Insurance prevents its loss",
+        "choice3": "Insurance reduces possibilities of loss",
+        "choice4": "Insurance pays when there is loss of asset",
+        "answer":4
+        
+    },
+    {
+        "question": "Out of 400 houses, each valued at Rs. 20,000, on an average 4 houses get burnt every year resulting in a combined loss of Rs. 80,000. What should be the annual contribution of each house owner to make good this loss?",
+        "choice1": "Rs.100/-",
+        "choice2": "Rs.200/-",
+        "choice3": "Rs.80/-",
+        "choice4": "Rs.400/-",
+        "answer":2
+    },
+    {
+        "question": "Which of the following statements is true?",
+        "choice1": "Insurance is a method of sharing the losses of a ‘few’ by ‘many’",
+        "choice2": "Insurance is a method of transferring the risk of an individual to another individual",
+        "choice3": "Insurance is a method of sharing the losses of a ‘many’ by a few",
+        "choice4": "Insurance is a method of transferring the gains of a few to the many",
+        "answer":1
+    },
+    {
+        "question": "Why do insurers arrange for survey and inspection of the property before acceptance of a risk?",
+        "choice1": "To assess the risk for rating purposes",
+        "choice2": "To find out how the insured purchased the property",
+        "choice3": "To find out whether other insurers have also inspected the property",
+        "choice4": "To find out whether neighbouring property also can be insured",
+        "answer":1
+    }
+
+]

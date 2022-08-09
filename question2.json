@@ -1,0 +1,72 @@
+[
+{
+    "question": "Underwriting is the process of ___________.",
+    "choice1": " Marketing insurance products",
+    "choice2": " Collecting premiums from customers",
+    "choice3": "Risk selection and risk pricing",
+    "choice4": "  Selling various insurance products",
+    "answer": 3
+
+},
+{
+    "question": "The principle of utmost good faith in underwriting is required to be followed by ___________.",
+    "choice1": " The insurer",
+    "choice2": " The insured",
+    "choice3": "Both the insurer and the insured",
+    "choice4": "  The medical examiners",
+    "answer": 3
+
+},
+{
+    "question": "Insurable interest refers to ____________.",
+    "choice1": " Financial interest of the person in the asset to be insured",
+    "choice2": " The asset which is already insured",
+    "choice3": "Each insurer’s share of loss when more than one company covers the same loss",
+    "choice4": "  The amount of the loss that can be recovered from the insurer",
+    "answer":1
+
+},
+{
+    "question": "Which of the following statements about medical underwriting is incorrect?",
+    "choice1": " It involves high cost in collecting and assessing medical reports.",
+    "choice2": " Current health status and age are the key factors in medical underwriting for health insurance.",
+    "choice3": "Proposers have to undergo medical and pathological investigations to assess their health risk profile.",
+    "choice4": "  Percentage assessment is made on each component of the risk.",
+    "answer":4
+},
+{
+    "question": "According to the principle of indemnity, the insured is paid for __________.",
+    "choice1": " The actual losses to the extent of the sum insured",
+    "choice2": " The sum insured irrespective of the amount actually spent",
+    "choice3": "A fixed amount agreed between both the parties",
+    "choice4": "  The actual losses irrespective of the sum assured",
+    "answer":2
+ 
+},
+{
+    "question": "The first and the primary source of information about an applicant, for the underwriter is his ________________.",
+    "choice1": " Age proof documents",
+    "choice2": " Financial documents",
+    "choice3": "Previous medical records",
+    "choice4": "  Proposal form",
+    "answer":1
+ 
+},
+{
+    "question":" The underwriting process is completed when ___________________.",
+    "choice1": " All the critical information related to the health and personal details of the proposer are collected through the proposal form",
+    "choice2": " All the medical examinations and tests of the proposer are completed",
+    "choice3": " The received information is carefully assessed and classified into appropriate risk categories",
+    "choice4": " The policy is issued to the proposer after risk selection and pricing.",
+    "answer":4
+
+},
+{
+    "question": " Which of the following statements about the numerical rating method is incorrect?",
+    "choice1":" Numerical rating method provides greater speed in the handling of a large business with the help of trained personnel.",
+    "choice2": " Analysis of difficult or doubtful cases is not possible on the basis of numerical points without medical referees or experts.",
+    "choice3": " This method can be used by persons without any specific knowledge of medical science.",
+    "choice4": " It ensures consistency between the decisions of different underwriters.",
+    "answer":2
+}
+]
